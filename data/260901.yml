@@ -1,0 +1,65 @@
+about:
+  description: A high-throughput and memory-efficient inference and serving engine for LLMs
+  license: Apache-2.0
+  homepage: https://vllm.ai
+  head: 7c5dc57
+  archived: false
+  latestVersion: v0.28.0
+  collectedAt: 2026-09-01T05:02:10Z
+timeline:
+  created: 2023-02-09
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-26
+popularity:
+  star: 90640
+  watcher: 596
+  fork: 21511
+  release: 104
+  contributor: 3246
+  pullRequest: 15514
+  issue: 17769
+language:
+  Python: 52489085
+  Rust: 3909509
+  Cuda: 2844823
+  C++: 2094763
+  Shell: 729030
+  CMake: 153334
+  Dockerfile: 61387
+  HCL: 25272
+  C: 10959
+  Jinja: 6839
+totalLine: 62325001
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 3
+    mergedPR: 921
+    openPR: 1730
+    closedIssue: 159
+    openIssue: 632
+    commit: 1583
+  last90d:
+    since: 2026-06-03
+    release: 9
+    mergedPR: 3089
+    openPR: 3424
+    closedIssue: 516
+    openIssue: 1448
+    commit: 5340
+  last180d:
+    since: 2026-03-05
+    release: 20
+    mergedPR: 5864
+    openPR: 4675
+    closedIssue: 1876
+    openIssue: 2064
+    commit: 9082
+  last360d:
+    since: 2025-09-06
+    release: 31
+    mergedPR: 11258
+    openPR: 4994
+    closedIssue: 4954
+    openIssue: 2205
+    commit: 16029
