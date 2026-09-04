@@ -1,65 +1,93 @@
 about:
-  description: A high-throughput and memory-efficient inference and serving engine for LLMs
+  description:
+  |
+    A high-throughput and memory-efficient inference and serving engine for LLMs
   license: Apache-2.0
   homepage: https://vllm.ai
-  head: 78300cd
+  head: 2524051
   archived: false
   latestVersion: v0.28.0
-  collectedAt: 2026-09-04T04:25:30Z
+  collectedAt: 2026-09-04T19:32:00Z
 timeline:
   created: 2023-02-09
   lastCommit: 2026-09-04
   lastRelease: 2026-08-26
 popularity:
-  star: 90931
+  star: 90973
   watcher: 597
-  fork: 21676
+  fork: 21708
   release: 104
-  contributor: 3306
-  pullRequest: 15798
-  issue: 17877
+  contributor: 3311
+  pullRequest: 36680
+  issue: 17898
 language:
-  Python: 54221278
-  Rust: 4016497
+  Python: 54379808
+  Rust: 4042122
   Cuda: 2867505
-  C++: 2095608
-  Shell: 742348
+  C++: 2095622
+  Shell: 745232
   CMake: 153334
   Dockerfile: 61387
   HCL: 25272
   C: 10959
   Jinja: 6839
-totalLine: 64201027
+totalBytes: 64388080
 recent:
   last30d:
     since: 2026-08-05
     release: 3
-    mergedPR: 960
-    openPR: 1818
-    closedIssue: 157
-    openIssue: 658
-    commit: 1966
+    mergedPR: 992
+    openPR: 1868
+    closedIssue: 161
+    openIssue: 675
+    commit: 2015
+  last60d:
+    since: 2026-07-06
+    release: 6
+    mergedPR: 2086
+    openPR: 2866
+    closedIssue: 349
+    openIssue: 1190
+    commit: 3978
   last90d:
     since: 2026-06-06
     release: 8
-    mergedPR: 3162
-    openPR: 3543
-    closedIssue: 538
-    openIssue: 1493
-    commit: 5766
+    mergedPR: 3194
+    openPR: 3586
+    closedIssue: 544
+    openIssue: 1508
+    commit: 5815
   last180d:
     since: 2026-03-08
     release: 19
-    mergedPR: 5980
-    openPR: 4812
-    closedIssue: 1878
-    openIssue: 2122
-    commit: 9637
+    mergedPR: 6012
+    openPR: 4855
+    closedIssue: 1884
+    openIssue: 2137
+    commit: 9686
   last360d:
     since: 2025-09-09
     release: 31
-    mergedPR: 11358
-    openPR: 5145
-    closedIssue: 4960
-    openIssue: 2262
-    commit: 16613
+    mergedPR: 11390
+    openPR: 5188
+    closedIssue: 4966
+    openIssue: 2277
+    commit: 16662
+  last720d:
+    since: 2024-09-14
+    release: 66
+    mergedPR: 18173
+    openPR: 5218
+    closedIssue: 11133
+    openIssue: 2334
+    commit: 18220
+total:
+  release: 104
+  mergedPR: 20827
+  openPR: 5218
+  closedIssue: 15556
+  openIssue: 2342
+  commit: 20877
+---
+---
+
