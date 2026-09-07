@@ -2,99 +2,99 @@ about:
   description: "A high-throughput and memory-efficient inference and serving engine for LLMs"
   license: Apache-2.0
   homepage: https://vllm.ai
-  head: 9cc7793
+  head: 51da0ca
   archived: false
   latestVersion: "v0.28.0"
-  collectedAt: 2026-09-07T04:45:00Z
+  collectedAt: 2026-09-07T19:40:03Z
 timeline:
   created: 2023-02-09
   lastCommit: 2026-09-07
   lastRelease: 2026-08-26
 popularity:
-  star: 91118
+  star: 91178
   watcher: 598
-  fork: 21812
+  fork: 21851
   release: 104
-  contributor: 3328
-  pullRequest: 36860
-  issue: 17972
+  contributor: 3336
+  pullRequest: 36953
+  issue: 17996
 language:
-  Python: 54593031
+  Python: 54997531
   Rust: 4042122
   Cuda: 2869424
   C++: 2133132
-  Shell: 745300
+  Shell: 753281
   CMake: 154715
   Dockerfile: 61387
   HCL: 25272
   C: 10959
   Jinja: 6839
-totalBytes: 64642181
+totalBytes: 65054662
 recent:
   last30d:
     since: 2026-08-08
     release: 3
-    mergedPR: 934
-    openPR: 1878
-    closedIssue: 156
-    openIssue: 695
-    commit: 1586
+    mergedPR: 959
+    openPR: 1928
+    closedIssue: 160
+    openIssue: 715
+    commit: 1642
   last60d:
     since: 2026-07-09
     release: 6
-    mergedPR: 2003
-    openPR: 2870
-    closedIssue: 333
-    openIssue: 1200
-    commit: 3717
+    mergedPR: 2030
+    openPR: 2916
+    closedIssue: 338
+    openIssue: 1219
+    commit: 3773
   last90d:
     since: 2026-06-09
     release: 8
-    mergedPR: 3145
-    openPR: 3616
-    closedIssue: 529
-    openIssue: 1538
-    commit: 5510
+    mergedPR: 3173
+    openPR: 3661
+    closedIssue: 535
+    openIssue: 1556
+    commit: 5566
   last180d:
     since: 2026-03-11
     release: 19
-    mergedPR: 5919
-    openPR: 4905
-    closedIssue: 1842
-    openIssue: 2151
-    commit: 9449
+    mergedPR: 5948
+    openPR: 4946
+    closedIssue: 1848
+    openIssue: 2169
+    commit: 9505
   last360d:
     since: 2025-09-12
     release: 31
-    mergedPR: 11309
-    openPR: 5273
-    closedIssue: 4958
-    openIssue: 2297
-    commit: 16438
+    mergedPR: 11338
+    openPR: 5314
+    closedIssue: 4964
+    openIssue: 2315
+    commit: 16494
   last720d:
     since: 2024-09-17
     release: 66
-    mergedPR: 18199
-    openPR: 5303
-    closedIssue: 11163
-    openIssue: 2357
-    commit: 18257
+    mergedPR: 18228
+    openPR: 5344
+    closedIssue: 11169
+    openIssue: 2375
+    commit: 18286
 total:
   release: 104
-  mergedPR: 20880
-  openPR: 5303
-  closedIssue: 15607
-  openIssue: 2365
-  commit: 20930
+  mergedPR: 20909
+  openPR: 5344
+  closedIssue: 15613
+  openIssue: 2383
+  commit: 20959
 ---
 path: /home/runner/.x-repo/github.com/vllm-project/vllm
-collectedAt: 2026-09-07T04:45:27Z
+collectedAt: 2026-09-07T19:40:36Z
 loc:
   Python:
-    code: 1260627
-    comments: 92394
-    blanks: 198643
-    files: 4495
+    code: 1270157
+    comments: 92738
+    blanks: 199803
+    files: 4512
   Json:
     code: 155665
     comments: 0
@@ -126,10 +126,10 @@ loc:
     blanks: 1370
     files: 41
   Sh:
-    code: 5667
-    comments: 1243
-    blanks: 1098
-    files: 61
+    code: 5902
+    comments: 1266
+    blanks: 1129
+    files: 62
   Yaml:
     code: 4359
     comments: 424
@@ -192,8 +192,8 @@ loc:
     files: 3
   Markdown:
     code: 0
-    comments: 22216
-    blanks: 10954
+    comments: 22267
+    blanks: 10962
     files: 287
   Text:
     code: 0
@@ -201,15 +201,15 @@ loc:
     blanks: 414
     files: 106
 total:
-  code: 1630339
-  comments: 147219
-  blanks: 238538
-  files: 6380
+  code: 1640113
+  comments: 147637
+  blanks: 239737
+  files: 6398
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:45:30+00:00
+  collectedAt: 2026-09-07T19:40:39+00:00
   platform:
     darwin/arm64:
       name:  vllm-0.28.0+cpu-cp312-cp312-macosx_11_0_arm64.whl
