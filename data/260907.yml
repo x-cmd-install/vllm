@@ -1,0 +1,243 @@
+about:
+  description: "A high-throughput and memory-efficient inference and serving engine for LLMs"
+  license: Apache-2.0
+  homepage: https://vllm.ai
+  head: 9cc7793
+  archived: false
+  latestVersion: "v0.28.0"
+  collectedAt: 2026-09-07T04:45:00Z
+timeline:
+  created: 2023-02-09
+  lastCommit: 2026-09-07
+  lastRelease: 2026-08-26
+popularity:
+  star: 91118
+  watcher: 598
+  fork: 21812
+  release: 104
+  contributor: 3328
+  pullRequest: 36860
+  issue: 17972
+language:
+  Python: 54593031
+  Rust: 4042122
+  Cuda: 2869424
+  C++: 2133132
+  Shell: 745300
+  CMake: 154715
+  Dockerfile: 61387
+  HCL: 25272
+  C: 10959
+  Jinja: 6839
+totalBytes: 64642181
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 3
+    mergedPR: 934
+    openPR: 1878
+    closedIssue: 156
+    openIssue: 695
+    commit: 1586
+  last60d:
+    since: 2026-07-09
+    release: 6
+    mergedPR: 2003
+    openPR: 2870
+    closedIssue: 333
+    openIssue: 1200
+    commit: 3717
+  last90d:
+    since: 2026-06-09
+    release: 8
+    mergedPR: 3145
+    openPR: 3616
+    closedIssue: 529
+    openIssue: 1538
+    commit: 5510
+  last180d:
+    since: 2026-03-11
+    release: 19
+    mergedPR: 5919
+    openPR: 4905
+    closedIssue: 1842
+    openIssue: 2151
+    commit: 9449
+  last360d:
+    since: 2025-09-12
+    release: 31
+    mergedPR: 11309
+    openPR: 5273
+    closedIssue: 4958
+    openIssue: 2297
+    commit: 16438
+  last720d:
+    since: 2024-09-17
+    release: 66
+    mergedPR: 18199
+    openPR: 5303
+    closedIssue: 11163
+    openIssue: 2357
+    commit: 18257
+total:
+  release: 104
+  mergedPR: 20880
+  openPR: 5303
+  closedIssue: 15607
+  openIssue: 2365
+  commit: 20930
+---
+path: /home/runner/.x-repo/github.com/vllm-project/vllm
+collectedAt: 2026-09-07T04:45:27Z
+loc:
+  Python:
+    code: 1260627
+    comments: 92394
+    blanks: 198643
+    files: 4495
+  Json:
+    code: 155665
+    comments: 0
+    blanks: 4
+    files: 629
+  Rust:
+    code: 94833
+    comments: 2312
+    blanks: 11877
+    files: 316
+  Cuda:
+    code: 41928
+    comments: 4822
+    blanks: 5323
+    files: 97
+  Cpp:
+    code: 18841
+    comments: 1843
+    blanks: 2401
+    files: 43
+  CppHeader:
+    code: 17080
+    comments: 1903
+    blanks: 3140
+    files: 50
+  CHeader:
+    code: 8831
+    comments: 1086
+    blanks: 1370
+    files: 41
+  Sh:
+    code: 5667
+    comments: 1243
+    blanks: 1098
+    files: 61
+  Yaml:
+    code: 4359
+    comments: 424
+    blanks: 219
+    files: 192
+  Svg:
+    code: 3059
+    comments: 0
+    blanks: 22
+    files: 7
+  CMake:
+    code: 2779
+    comments: 687
+    blanks: 375
+    files: 11
+  Toml:
+    code: 868
+    comments: 27
+    blanks: 91
+    files: 22
+  Dockerfile:
+    code: 835
+    comments: 345
+    blanks: 152
+    files: 1
+  Hcl:
+    code: 452
+    comments: 160
+    blanks: 96
+    files: 3
+  Protobuf:
+    code: 281
+    comments: 64
+    blanks: 77
+    files: 2
+  Autoconf:
+    code: 177
+    comments: 34
+    blanks: 28
+    files: 5
+  Css:
+    code: 161
+    comments: 11
+    blanks: 23
+    files: 2
+  Pan:
+    code: 156
+    comments: 0
+    blanks: 16
+    files: 1
+  JavaScript:
+    code: 106
+    comments: 25
+    blanks: 16
+    files: 6
+  Html:
+    code: 31
+    comments: 2
+    blanks: 2
+    files: 3
+  Markdown:
+    code: 0
+    comments: 22216
+    blanks: 10954
+    files: 287
+  Text:
+    code: 0
+    comments: 10777
+    blanks: 414
+    files: 106
+total:
+  code: 1630339
+  comments: 147219
+  blanks: 238538
+  files: 6380
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T04:45:30+00:00
+  platform:
+    darwin/arm64:
+      name:  vllm-0.28.0+cpu-cp312-cp312-macosx_11_0_arm64.whl
+      url:   https://github.com/vllm-project/vllm/releases/download/v0.28.0/vllm-0.28.0%2Bcpu-cp312-cp312-macosx_11_0_arm64.whl
+      size:  26437437
+      score: 40
+    darwin/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/arm64:
+      name:  vllm-0.28.0-cp38-abi3-manylinux_2_28_aarch64.whl
+      url:   https://github.com/vllm-project/vllm/releases/download/v0.28.0/vllm-0.28.0-cp38-abi3-manylinux_2_28_aarch64.whl
+      size:  308873410
+      score: 38
+    linux/amd64:
+      name:  vllm-0.28.0+xpu-cp38-abi3-manylinux_2_34_x86_64.whl
+      url:   https://github.com/vllm-project/vllm/releases/download/v0.28.0/vllm-0.28.0%2Bxpu-cp38-abi3-manylinux_2_34_x86_64.whl
+      size:  29994280
+      score: 40
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
