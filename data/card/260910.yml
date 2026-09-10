@@ -2,12 +2,12 @@ about:
   description: "A high-throughput and memory-efficient inference and serving engine for LLMs"
   license: Apache-2.0
   homepage: https://vllm.ai
-  head: 7470082
+  head: ae71862
   archived: false
   latestVersion: "v0.29.0"
   latestRelease: "v0.29.0"
   latestPrerelease: "v0.10.1rc1"
-  collectedAt: 2026-09-10T16:33:24Z
+  collectedAt: 2026-09-10T20:51:42Z
 timeline:
   created: 2023-02-09
   lastCommit: 2026-09-10
@@ -15,15 +15,15 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2025-08-17
 popularity:
-  star: 91426
+  star: 91435
   watcher: 597
-  fork: 22020
+  fork: 22027
   release: 105
-  contributor: 3361
-  pullRequest: 37428
+  contributor: 3362
+  pullRequest: 37453
   issue: 18059
 language:
-  Python: 56466715
+  Python: 56485234
   Rust: 4105185
   Cuda: 2948567
   C++: 2309731
@@ -33,72 +33,72 @@ language:
   HCL: 25272
   C: 10959
   Jinja: 6839
-totalBytes: 66857713
+totalBytes: 66876232
 recent:
   last30d:
     since: 2026-08-11
     release: 3
-    mergedPR: 999
-    openPR: 2005
+    mergedPR: 1007
+    openPR: 2015
     closedIssue: 159
     openIssue: 701
-    commit: 1920
+    commit: 1934
   last60d:
     since: 2026-07-12
     release: 6
-    mergedPR: 2127
-    openPR: 3021
-    closedIssue: 350
-    openIssue: 1207
-    commit: 4051
+    mergedPR: 2135
+    openPR: 3031
+    closedIssue: 351
+    openIssue: 1206
+    commit: 4065
   last90d:
     since: 2026-06-12
     release: 9
-    mergedPR: 3185
-    openPR: 3752
-    closedIssue: 538
-    openIssue: 1536
-    commit: 5844
+    mergedPR: 3193
+    openPR: 3762
+    closedIssue: 539
+    openIssue: 1535
+    commit: 5858
   last180d:
     since: 2026-03-14
     release: 19
-    mergedPR: 6033
-    openPR: 5070
-    closedIssue: 1853
-    openIssue: 2173
-    commit: 9783
+    mergedPR: 6041
+    openPR: 5079
+    closedIssue: 1854
+    openIssue: 2172
+    commit: 9797
   last360d:
     since: 2025-09-15
     release: 31
-    mergedPR: 11445
-    openPR: 5405
-    closedIssue: 4974
-    openIssue: 2324
-    commit: 16772
+    mergedPR: 11453
+    openPR: 5414
+    closedIssue: 4975
+    openIssue: 2323
+    commit: 16786
   last720d:
     since: 2024-09-20
     release: 67
-    mergedPR: 18348
-    openPR: 5435
-    closedIssue: 11169
-    openIssue: 2383
-    commit: 18410
+    mergedPR: 18356
+    openPR: 5444
+    closedIssue: 11170
+    openIssue: 2382
+    commit: 18418
 total:
   release: 105
-  mergedPR: 21074
-  openPR: 5435
-  closedIssue: 15667
-  openIssue: 2392
-  commit: 21122
+  mergedPR: 21082
+  openPR: 5444
+  closedIssue: 15668
+  openIssue: 2391
+  commit: 21130
 ---
 path: /home/runner/.x-repo/github.com/vllm-project/vllm
-collectedAt: 2026-09-10T16:33:57Z
+collectedAt: 2026-09-10T20:52:13Z
 loc:
   Python:
-    code: 1302816
-    comments: 94520
-    blanks: 203831
-    files: 4602
+    code: 1303267
+    comments: 94542
+    blanks: 203866
+    files: 4601
   Json:
     code: 155895
     comments: 0
@@ -205,10 +205,10 @@ loc:
     blanks: 450
     files: 112
 total:
-  code: 1679239
-  comments: 150666
-  blanks: 244492
-  files: 6514
+  code: 1679690
+  comments: 150688
+  blanks: 244527
+  files: 6513
 ---
 
 ---
