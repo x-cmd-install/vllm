@@ -2,12 +2,12 @@ about:
   description: "A high-throughput and memory-efficient inference and serving engine for LLMs"
   license: Apache-2.0
   homepage: https://vllm.ai
-  head: e7edf17
+  head: cc5dd0a
   archived: false
   latestVersion: "v0.29.0"
   latestRelease: "v0.29.0"
   latestPrerelease: "v0.10.1rc1"
-  collectedAt: 2026-09-11T04:54:07Z
+  collectedAt: 2026-09-11T20:02:52Z
 timeline:
   created: 2023-02-09
   lastCommit: 2026-09-11
@@ -15,109 +15,109 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2025-08-17
 popularity:
-  star: 91452
-  watcher: 597
-  fork: 22036
+  star: 91516
+  watcher: 598
+  fork: 22071
   release: 105
-  contributor: 3365
-  pullRequest: 37503
-  issue: 18069
+  contributor: 3370
+  pullRequest: 37602
+  issue: 18085
 language:
-  Python: 56535928
-  Rust: 4105185
-  Cuda: 2957294
-  C++: 2309731
-  Shell: 766156
+  Python: 56816121
+  Rust: 4106995
+  Cuda: 2962243
+  C++: 2311017
+  Shell: 766361
   CMake: 155687
   Dockerfile: 62602
   HCL: 25272
   C: 10959
   Jinja: 6839
-totalBytes: 66935653
+totalBytes: 67224096
 recent:
   last30d:
     since: 2026-08-12
     release: 2
-    mergedPR: 969
-    openPR: 1987
-    closedIssue: 152
-    openIssue: 682
-    commit: 1951
+    mergedPR: 1010
+    openPR: 2017
+    closedIssue: 158
+    openIssue: 692
+    commit: 2033
   last60d:
     since: 2026-07-13
     release: 6
-    mergedPR: 2114
-    openPR: 3032
-    closedIssue: 350
-    openIssue: 1191
-    commit: 4082
+    mergedPR: 2157
+    openPR: 3056
+    closedIssue: 356
+    openIssue: 1201
+    commit: 4164
   last90d:
     since: 2026-06-13
     release: 9
-    mergedPR: 3192
-    openPR: 3764
-    closedIssue: 535
-    openIssue: 1535
-    commit: 5875
+    mergedPR: 3237
+    openPR: 3786
+    closedIssue: 541
+    openIssue: 1545
+    commit: 5957
   last180d:
     since: 2026-03-15
     release: 19
-    mergedPR: 6039
-    openPR: 5093
-    closedIssue: 1859
-    openIssue: 2171
-    commit: 9814
+    mergedPR: 6084
+    openPR: 5113
+    closedIssue: 1865
+    openIssue: 2181
+    commit: 9896
   last360d:
     since: 2025-09-16
     release: 31
-    mergedPR: 11432
-    openPR: 5434
-    closedIssue: 4961
-    openIssue: 2323
-    commit: 16803
+    mergedPR: 11477
+    openPR: 5454
+    closedIssue: 4967
+    openIssue: 2333
+    commit: 16885
   last720d:
     since: 2024-09-21
     release: 67
-    mergedPR: 18362
-    openPR: 5464
-    closedIssue: 11173
-    openIssue: 2382
-    commit: 18416
+    mergedPR: 18407
+    openPR: 5484
+    closedIssue: 11179
+    openIssue: 2392
+    commit: 18460
 total:
   release: 105
-  mergedPR: 21093
-  openPR: 5464
-  closedIssue: 15678
-  openIssue: 2391
-  commit: 21140
+  mergedPR: 21138
+  openPR: 5484
+  closedIssue: 15684
+  openIssue: 2401
+  commit: 21184
 ---
 path: /home/runner/.x-repo/github.com/vllm-project/vllm
-collectedAt: 2026-09-11T04:54:36Z
+collectedAt: 2026-09-11T20:03:50Z
 loc:
   Python:
-    code: 1304359
-    comments: 94621
-    blanks: 203981
-    files: 4602
+    code: 1310853
+    comments: 94759
+    blanks: 204715
+    files: 4607
   Json:
     code: 155895
     comments: 0
     blanks: 4
     files: 631
   Rust:
-    code: 96406
-    comments: 2350
-    blanks: 12013
-    files: 323
+    code: 96446
+    comments: 2354
+    blanks: 12017
+    files: 324
   Cuda:
-    code: 43375
+    code: 43478
     comments: 5190
-    blanks: 5372
+    blanks: 5378
     files: 97
   Cpp:
-    code: 22264
-    comments: 2358
-    blanks: 2846
+    code: 22284
+    comments: 2364
+    blanks: 2849
     files: 50
   CppHeader:
     code: 17080
@@ -125,9 +125,9 @@ loc:
     blanks: 3140
     files: 50
   CHeader:
-    code: 8497
+    code: 8499
     comments: 1049
-    blanks: 1301
+    blanks: 1302
     files: 41
   Sh:
     code: 6096
@@ -150,10 +150,10 @@ loc:
     blanks: 376
     files: 11
   Toml:
-    code: 870
+    code: 887
     comments: 29
-    blanks: 91
-    files: 22
+    blanks: 93
+    files: 23
   Dockerfile:
     code: 842
     comments: 357
@@ -170,7 +170,7 @@ loc:
     blanks: 77
     files: 2
   Autoconf:
-    code: 177
+    code: 178
     comments: 34
     blanks: 28
     files: 5
@@ -196,19 +196,19 @@ loc:
     files: 3
   Markdown:
     code: 0
-    comments: 22508
-    blanks: 11058
-    files: 290
+    comments: 22601
+    blanks: 11106
+    files: 291
   Text:
     code: 0
-    comments: 10866
+    comments: 10869
     blanks: 450
     files: 112
 total:
-  code: 1680913
-  comments: 150811
-  blanks: 244651
-  files: 6514
+  code: 1687644
+  comments: 151057
+  blanks: 245451
+  files: 6522
 ---
 
 ---
