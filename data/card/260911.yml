@@ -1,0 +1,214 @@
+about:
+  description: "A high-throughput and memory-efficient inference and serving engine for LLMs"
+  license: Apache-2.0
+  homepage: https://vllm.ai
+  head: e7edf17
+  archived: false
+  latestVersion: "v0.29.0"
+  latestRelease: "v0.29.0"
+  latestPrerelease: "v0.10.1rc1"
+  collectedAt: 2026-09-11T04:54:07Z
+timeline:
+  created: 2023-02-09
+  lastCommit: 2026-09-11
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
+  lastPrerelease: 2025-08-17
+popularity:
+  star: 91452
+  watcher: 597
+  fork: 22036
+  release: 105
+  contributor: 3365
+  pullRequest: 37503
+  issue: 18069
+language:
+  Python: 56535928
+  Rust: 4105185
+  Cuda: 2957294
+  C++: 2309731
+  Shell: 766156
+  CMake: 155687
+  Dockerfile: 62602
+  HCL: 25272
+  C: 10959
+  Jinja: 6839
+totalBytes: 66935653
+recent:
+  last30d:
+    since: 2026-08-12
+    release: 2
+    mergedPR: 969
+    openPR: 1987
+    closedIssue: 152
+    openIssue: 682
+    commit: 1951
+  last60d:
+    since: 2026-07-13
+    release: 6
+    mergedPR: 2114
+    openPR: 3032
+    closedIssue: 350
+    openIssue: 1191
+    commit: 4082
+  last90d:
+    since: 2026-06-13
+    release: 9
+    mergedPR: 3192
+    openPR: 3764
+    closedIssue: 535
+    openIssue: 1535
+    commit: 5875
+  last180d:
+    since: 2026-03-15
+    release: 19
+    mergedPR: 6039
+    openPR: 5093
+    closedIssue: 1859
+    openIssue: 2171
+    commit: 9814
+  last360d:
+    since: 2025-09-16
+    release: 31
+    mergedPR: 11432
+    openPR: 5434
+    closedIssue: 4961
+    openIssue: 2323
+    commit: 16803
+  last720d:
+    since: 2024-09-21
+    release: 67
+    mergedPR: 18362
+    openPR: 5464
+    closedIssue: 11173
+    openIssue: 2382
+    commit: 18416
+total:
+  release: 105
+  mergedPR: 21093
+  openPR: 5464
+  closedIssue: 15678
+  openIssue: 2391
+  commit: 21140
+---
+path: /home/runner/.x-repo/github.com/vllm-project/vllm
+collectedAt: 2026-09-11T04:54:36Z
+loc:
+  Python:
+    code: 1304359
+    comments: 94621
+    blanks: 203981
+    files: 4602
+  Json:
+    code: 155895
+    comments: 0
+    blanks: 4
+    files: 631
+  Rust:
+    code: 96406
+    comments: 2350
+    blanks: 12013
+    files: 323
+  Cuda:
+    code: 43375
+    comments: 5190
+    blanks: 5372
+    files: 97
+  Cpp:
+    code: 22264
+    comments: 2358
+    blanks: 2846
+    files: 50
+  CppHeader:
+    code: 17080
+    comments: 1903
+    blanks: 3140
+    files: 50
+  CHeader:
+    code: 8497
+    comments: 1049
+    blanks: 1301
+    files: 41
+  Sh:
+    code: 6096
+    comments: 1310
+    blanks: 1166
+    files: 63
+  Yaml:
+    code: 4359
+    comments: 424
+    blanks: 219
+    files: 192
+  Svg:
+    code: 3059
+    comments: 0
+    blanks: 22
+    files: 7
+  CMake:
+    code: 2798
+    comments: 689
+    blanks: 376
+    files: 11
+  Toml:
+    code: 870
+    comments: 29
+    blanks: 91
+    files: 22
+  Dockerfile:
+    code: 842
+    comments: 357
+    blanks: 153
+    files: 1
+  Hcl:
+    code: 452
+    comments: 160
+    blanks: 96
+    files: 3
+  Protobuf:
+    code: 281
+    comments: 64
+    blanks: 77
+    files: 2
+  Autoconf:
+    code: 177
+    comments: 34
+    blanks: 28
+    files: 5
+  Css:
+    code: 161
+    comments: 11
+    blanks: 23
+    files: 2
+  Pan:
+    code: 156
+    comments: 0
+    blanks: 16
+    files: 1
+  JavaScript:
+    code: 106
+    comments: 25
+    blanks: 16
+    files: 6
+  Html:
+    code: 31
+    comments: 2
+    blanks: 2
+    files: 3
+  Markdown:
+    code: 0
+    comments: 22508
+    blanks: 11058
+    files: 290
+  Text:
+    code: 0
+    comments: 10866
+    blanks: 450
+    files: 112
+total:
+  code: 1680913
+  comments: 150811
+  blanks: 244651
+  files: 6514
+---
+
+---
