@@ -4,7 +4,7 @@
 
 A high-throughput and memory-efficient inference and serving engine for LLMs
 
-[![x-cmd/install — vllm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vllm.svg)](https://x-cmd.com/install/vllm)
+[![x-cmd/install — vllm Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/vllm.svg)](https://x-cmd.com/install/vllm)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install vllm
 
 ## Code insight
 
-Total: **1,753,535** lines of code across **5875** files in the top 5 languages.
+Total: **1,758,425** lines of code across **5887** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 1,380,770 | 97,132 | 213,530 | 4756 |
+| Python | 1,385,407 | 97,477 | 214,046 | 4766 |
 | Json | 156,100 | 0 | 4 | 632 |
-| Rust | 102,008 | 2,417 | 12,423 | 335 |
-| Cuda | 45,168 | 5,310 | 5,461 | 99 |
-| Cpp | 23,670 | 2,547 | 3,035 | 53 |
+| Rust | 103,218 | 2,442 | 12,548 | 339 |
+| Cuda | 44,210 | 5,199 | 5,330 | 97 |
+| Cpp | 23,659 | 2,543 | 3,032 | 53 |
 
 ## Source
 
@@ -32,42 +32,42 @@ Total: **1,753,535** lines of code across **5875** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.29.0` (2026-09-09)
-- **Last commit**: 2026-09-22
+- **Latest**: `v0.30.0` (2026-09-22)
+- **Last commit**: 2026-09-23
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 92,386 · **Forks**: 22,498 · **Open issues**: 18,372 · **Contributors**: 3,453
+- **Stars**: 92,465 · **Forks**: 22,541 · **Open issues**: 18,408 · **Contributors**: 3,460
 
 ## Totals (cumulative)
 
-- **Releases**: 105 · **Merged PRs**: 21695 · **Open PRs**: 5826 · **Closed issues**: 15916 · **Open issues**: 2456 · **Commits**: 21740
+- **Releases**: 106 · **Merged PRs**: 21754 · **Open PRs**: 5844 · **Closed issues**: 15930 · **Open issues**: 2478 · **Commits**: 21799
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 1110 | 2047 | 165 | 681 | 2402 |
-| last60d | 2026-07-24 | 5 | 2292 | 3171 | 371 | 1213 | 4425 |
-| 90d | 2026-06-24 | 8 | 3386 | 3984 | 556 | 1630 | 6270 |
-| last180d | 2026-03-26 | 18 | 6192 | 5363 | 1840 | 2220 | 10504 |
-| 360d | 2025-09-27 | 31 | 11631 | 5794 | 4979 | 2388 | 17464 |
-| last720d | 2024-10-02 | 66 | 18839 | 5826 | 11267 | 2446 | 18883 |
+| 30d | 2026-08-24 | 3 | 1098 | 2078 | 159 | 702 | 2507 |
+| last60d | 2026-07-25 | 6 | 2321 | 3238 | 370 | 1237 | 4530 |
+| 90d | 2026-06-25 | 9 | 3395 | 4022 | 558 | 1647 | 6375 |
+| last180d | 2026-03-27 | 19 | 6216 | 5406 | 1831 | 2241 | 10609 |
+| 360d | 2025-09-28 | 32 | 11675 | 5812 | 4977 | 2410 | 17569 |
+| last720d | 2024-10-03 | 67 | 18886 | 5844 | 11270 | 2468 | 18938 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [vllm-0.29.0+cpu-cp312-cp312-macosx_11_0_arm64.whl](https://github.com/vllm-project/vllm/releases/download/v0.29.0/vllm-0.29.0+cpu-cp312-cp312-macosx_11_0_arm64.whl) | 26.7 MiB | `native/darwin/arm64` |
-| [vllm-0.29.0+cpu-cp38-abi3-manylinux_2_34_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.29.0/vllm-0.29.0+cpu-cp38-abi3-manylinux_2_34_aarch64.whl) | 65.1 MiB | `native/linux/arm64` |
-| [vllm-0.29.0+cpu-cp38-abi3-manylinux_2_34_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.29.0/vllm-0.29.0+cpu-cp38-abi3-manylinux_2_34_x86_64.whl) | 131.5 MiB | `native/linux/x64` |
-| [vllm-0.29.0+cu129-cp38-abi3-manylinux_2_28_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.29.0/vllm-0.29.0+cu129-cp38-abi3-manylinux_2_28_aarch64.whl) | 497.5 MiB | `native/linux/arm64` |
-| [vllm-0.29.0+cu129-cp38-abi3-manylinux_2_28_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.29.0/vllm-0.29.0+cu129-cp38-abi3-manylinux_2_28_x86_64.whl) | 523.1 MiB | `native/linux/x64` |
-| [vllm-0.29.0+xpu-cp38-abi3-manylinux_2_34_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.29.0/vllm-0.29.0+xpu-cp38-abi3-manylinux_2_34_x86_64.whl) | 30.1 MiB | `native/linux/x64` |
-| [vllm-0.29.0-cp38-abi3-manylinux_2_28_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.29.0/vllm-0.29.0-cp38-abi3-manylinux_2_28_aarch64.whl) | 295.7 MiB | `native/linux/arm64` |
-| [vllm-0.29.0-cp38-abi3-manylinux_2_28_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.29.0/vllm-0.29.0-cp38-abi3-manylinux_2_28_x86_64.whl) | 301.3 MiB | `native/linux/x64` |
-| [vllm-0.29.0.tar.gz](https://github.com/vllm-project/vllm/releases/download/v0.29.0/vllm-0.29.0.tar.gz) | 39.0 MiB | `native/unknown` |
+| [vllm-0.30.0+cpu-cp312-cp312-macosx_11_0_arm64.whl](https://github.com/vllm-project/vllm/releases/download/v0.30.0/vllm-0.30.0+cpu-cp312-cp312-macosx_11_0_arm64.whl) | 27.6 MiB | `native/darwin/arm64` |
+| [vllm-0.30.0+cpu-cp38-abi3-manylinux_2_39_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.30.0/vllm-0.30.0+cpu-cp38-abi3-manylinux_2_39_aarch64.whl) | 65.2 MiB | `native/linux/arm64` |
+| [vllm-0.30.0+cpu-cp38-abi3-manylinux_2_39_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.30.0/vllm-0.30.0+cpu-cp38-abi3-manylinux_2_39_x86_64.whl) | 140.6 MiB | `native/linux/x64` |
+| [vllm-0.30.0+cu129-cp38-abi3-manylinux_2_28_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.30.0/vllm-0.30.0+cu129-cp38-abi3-manylinux_2_28_aarch64.whl) | 495.9 MiB | `native/linux/arm64` |
+| [vllm-0.30.0+cu129-cp38-abi3-manylinux_2_28_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.30.0/vllm-0.30.0+cu129-cp38-abi3-manylinux_2_28_x86_64.whl) | 520.2 MiB | `native/linux/x64` |
+| [vllm-0.30.0+xpu-cp38-abi3-manylinux_2_34_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.30.0/vllm-0.30.0+xpu-cp38-abi3-manylinux_2_34_x86_64.whl) | 31.1 MiB | `native/linux/x64` |
+| [vllm-0.30.0-cp38-abi3-manylinux_2_28_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.30.0/vllm-0.30.0-cp38-abi3-manylinux_2_28_aarch64.whl) | 295.6 MiB | `native/linux/arm64` |
+| [vllm-0.30.0-cp38-abi3-manylinux_2_28_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.30.0/vllm-0.30.0-cp38-abi3-manylinux_2_28_x86_64.whl) | 300.3 MiB | `native/linux/x64` |
+| [vllm-0.30.0.tar.gz](https://github.com/vllm-project/vllm/releases/download/v0.30.0/vllm-0.30.0.tar.gz) | 40.5 MiB | `native/unknown` |
 
 ## Improve this data
 
@@ -78,4 +78,4 @@ Install metadata for vllm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:07:35Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:03:57Z._
