@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 29500084,
       "digest": "sha256:21378516a51ff15029f71168e827b94660e21b39484eb52277166f01ac7dd686",
-      "download_count": 1599,
+      "download_count": 1948,
       "created_at": "2026-10-06T06:49:33Z",
       "updated_at": "2026-10-06T06:49:35Z",
       "browser_download_url": "https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0%2Bcpu-cp312-cp312-macosx_11_0_arm64.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 68640121,
       "digest": "sha256:8a9f86447a8ebcd1dadeae81b4b52587d8d967f67500bc7c00d2c6383c1df9cb",
-      "download_count": 1551,
+      "download_count": 1894,
       "created_at": "2026-10-05T06:45:06Z",
       "updated_at": "2026-10-05T06:45:12Z",
       "browser_download_url": "https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0%2Bcpu-cp38-abi3-manylinux_2_39_aarch64.whl"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 150877005,
       "digest": "sha256:d1eb6f3b6e548cfe372ecc4c85d0d2aa6986f183a2bfcfccdff93549b5463227",
-      "download_count": 3134,
+      "download_count": 3617,
       "created_at": "2026-10-05T06:45:06Z",
       "updated_at": "2026-10-05T06:45:17Z",
       "browser_download_url": "https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0%2Bcpu-cp38-abi3-manylinux_2_39_x86_64.whl"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 527129756,
       "digest": "sha256:0220b1d3cc8833e32436a1bfa573915c861ccac171ccf6e5b9cbf27c7edddebc",
-      "download_count": 599,
+      "download_count": 828,
       "created_at": "2026-10-05T06:45:06Z",
       "updated_at": "2026-10-05T06:45:40Z",
       "browser_download_url": "https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0%2Bcu129-cp38-abi3-manylinux_2_28_aarch64.whl"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 553357469,
       "digest": "sha256:5176ab746f4e736c4a354a11d0620abf0a941de287cad937ac34039293ca6f5f",
-      "download_count": 3040,
+      "download_count": 3884,
       "created_at": "2026-10-05T06:45:06Z",
       "updated_at": "2026-10-05T06:45:39Z",
       "browser_download_url": "https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0%2Bcu129-cp38-abi3-manylinux_2_28_x86_64.whl"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 33174044,
       "digest": "sha256:d3e9e825505caed8071cdb725588878604a63ae56e987fb8bf2083b0421da6b7",
-      "download_count": 52,
+      "download_count": 64,
       "created_at": "2026-10-05T06:45:06Z",
       "updated_at": "2026-10-05T06:45:09Z",
       "browser_download_url": "https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0%2Bxpu-cp38-abi3-manylinux_2_34_x86_64.whl"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 315390942,
       "digest": "sha256:56edd19c798510b6da5ae4dd38b3bdf55ea7ae261b339a906df006dc3faf751d",
-      "download_count": 3907,
+      "download_count": 4826,
       "created_at": "2026-10-05T06:45:10Z",
       "updated_at": "2026-10-05T06:45:29Z",
       "browser_download_url": "https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0-cp38-abi3-manylinux_2_28_aarch64.whl"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 320555825,
       "digest": "sha256:39132b433967f0962d03d8a5f633b9bee6b32708f566c7d5637b79f8d0ef3433",
-      "download_count": 4172,
+      "download_count": 5123,
       "created_at": "2026-10-05T06:45:13Z",
       "updated_at": "2026-10-05T06:45:30Z",
       "browser_download_url": "https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0-cp38-abi3-manylinux_2_28_x86_64.whl"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 43419411,
       "digest": "sha256:dde46f1efbe846e5bd0c5c4ec6ec71842c42254c7ff3d9bebb2a57028715d380",
-      "download_count": 98,
+      "download_count": 105,
       "created_at": "2026-10-05T06:45:18Z",
       "updated_at": "2026-10-05T06:45:23Z",
       "browser_download_url": "https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0.tar.gz"
