@@ -14,13 +14,13 @@ x install vllm
 
 ## Code insight
 
-Total: **1,919,974** lines of code across **6282** files in the top 5 languages.
+Total: **1,926,895** lines of code across **6294** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 1,519,073 | 103,279 | 231,340 | 5086 |
-| Json | 169,639 | 0 | 4 | 690 |
-| Rust | 115,636 | 2,703 | 13,491 | 357 |
+| Python | 1,525,978 | 103,581 | 232,155 | 5098 |
+| Json | 169,622 | 0 | 4 | 690 |
+| Rust | 115,666 | 2,703 | 13,494 | 357 |
 | Cuda | 45,648 | 5,705 | 5,438 | 96 |
 | Cpp | 23,906 | 2,545 | 3,064 | 53 |
 
@@ -33,27 +33,27 @@ Total: **1,919,974** lines of code across **6282** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.31.0` (2026-10-05)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 93,739 · **Forks**: 23,352 · **Open issues**: 18,992 · **Contributors**: 3,669
+- **Stars**: 93,811 · **Forks**: 23,394 · **Open issues**: 19,023 · **Contributors**: 3,682
 
 ## Totals (cumulative)
 
-- **Releases**: 107 · **Merged PRs**: 22971 · **Open PRs**: 6220 · **Closed issues**: 16372 · **Open issues**: 2620 · **Commits**: 23015
+- **Releases**: 107 · **Merged PRs**: 23062 · **Open PRs**: 6255 · **Closed issues**: 16395 · **Open issues**: 2628 · **Commits**: 23105
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 2 | 1231 | 2096 | 196 | 636 | 2911 |
-| last60d | 2026-08-15 | 4 | 2578 | 3519 | 424 | 1256 | 5567 |
-| 90d | 2026-07-16 | 7 | 3829 | 4425 | 655 | 1735 | 7671 |
-| last180d | 2026-04-17 | 18 | 6860 | 5811 | 1856 | 2345 | 12253 |
-| 360d | 2025-10-19 | 32 | 12261 | 6185 | 5029 | 2555 | 19164 |
-| last720d | 2024-10-24 | 66 | 19854 | 6219 | 11415 | 2609 | 19905 |
+| 30d | 2026-09-15 | 2 | 1259 | 2091 | 195 | 622 | 3046 |
+| last60d | 2026-08-16 | 4 | 2643 | 3546 | 437 | 1253 | 5702 |
+| 90d | 2026-07-17 | 7 | 3888 | 4444 | 662 | 1732 | 7806 |
+| last180d | 2026-04-18 | 18 | 6942 | 5849 | 1817 | 2351 | 12388 |
+| 360d | 2025-10-20 | 32 | 12328 | 6219 | 5034 | 2564 | 19299 |
+| last720d | 2024-10-25 | 66 | 19938 | 6254 | 11421 | 2618 | 19976 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for vllm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:57:26Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:36:53Z._
