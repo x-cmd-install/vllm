@@ -14,15 +14,15 @@ x install vllm
 
 ## 代码洞察
 
-合计: **2,005,566** 行代码（覆盖前 5 种语言、共 **6755** 个文件）。
+合计: **2,014,283** 行代码（覆盖前 5 种语言、共 **6789** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 1,564,314 | 104,832 | 236,614 | 5205 |
+| Python | 1,571,675 | 105,067 | 237,531 | 5235 |
 | Json | 169,622 | 0 | 4 | 690 |
-| Rust | 116,952 | 2,740 | 13,576 | 359 |
+| Rust | 118,268 | 2,765 | 13,649 | 361 |
 | Cuda | 46,973 | 5,862 | 5,549 | 99 |
-| Yaml | 42,545 | 2,790 | 4,942 | 402 |
+| Yaml | 42,575 | 2,797 | 4,942 | 404 |
 
 ## 源代码
 
@@ -32,42 +32,42 @@ x install vllm
 
 ## 发布
 
-- **最新版本**: `v0.31.0` (2026-10-05)
-- **最近提交**: 2026-10-18
+- **最新版本**: `v0.32.0` (2026-10-18)
+- **最近提交**: 2026-10-19
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 94,020 · **Fork**: 23,509 · **开放 issue**: 19,097 · **贡献者**: 3,703
+- **Star**: 94,094 · **Fork**: 23,558 · **开放 issue**: 19,124 · **贡献者**: 3,711
 
 ## 累计统计
 
-- **发布数**: 107 · **已合并 PR**: 23239 · **开放 PR**: 6333 · **已关闭 issue**: 16444 · **开放 issue**: 2653 · **提交数**: 23282
+- **发布数**: 108 · **已合并 PR**: 23280 · **开放 PR**: 6374 · **已关闭 issue**: 16471 · **开放 issue**: 2653 · **提交数**: 23323
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 2 | 1232 | 2075 | 189 | 614 | 2730 |
-| last60d | 2026-08-19 | 4 | 2669 | 3555 | 433 | 1240 | 5668 |
-| 90d | 2026-07-20 | 7 | 3982 | 4518 | 671 | 1742 | 7767 |
-| last180d | 2026-04-21 | 17 | 7026 | 5910 | 1771 | 2361 | 12495 |
-| 360d | 2025-10-23 | 32 | 12411 | 6297 | 5020 | 2588 | 19461 |
-| last720d | 2024-10-28 | 66 | 20090 | 6332 | 11436 | 2643 | 20137 |
+| 30d | 2026-09-19 | 3 | 1248 | 2113 | 192 | 613 | 2841 |
+| last60d | 2026-08-20 | 5 | 2651 | 3572 | 431 | 1235 | 5779 |
+| 90d | 2026-07-21 | 8 | 3974 | 4543 | 674 | 1740 | 7878 |
+| last180d | 2026-04-22 | 18 | 7042 | 5946 | 1772 | 2359 | 12606 |
+| 360d | 2025-10-24 | 33 | 12428 | 6338 | 5027 | 2588 | 19572 |
+| last720d | 2024-10-29 | 67 | 20111 | 6373 | 11446 | 2643 | 20169 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [vllm-0.31.0+cpu-cp312-cp312-macosx_11_0_arm64.whl](https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0+cpu-cp312-cp312-macosx_11_0_arm64.whl) | 28.1 MiB | `native/darwin/arm64` |
-| [vllm-0.31.0+cpu-cp38-abi3-manylinux_2_39_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0+cpu-cp38-abi3-manylinux_2_39_aarch64.whl) | 65.5 MiB | `native/linux/arm64` |
-| [vllm-0.31.0+cpu-cp38-abi3-manylinux_2_39_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0+cpu-cp38-abi3-manylinux_2_39_x86_64.whl) | 143.9 MiB | `native/linux/x64` |
-| [vllm-0.31.0+cu129-cp38-abi3-manylinux_2_28_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0+cu129-cp38-abi3-manylinux_2_28_aarch64.whl) | 502.7 MiB | `native/linux/arm64` |
-| [vllm-0.31.0+cu129-cp38-abi3-manylinux_2_28_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0+cu129-cp38-abi3-manylinux_2_28_x86_64.whl) | 527.7 MiB | `native/linux/x64` |
-| [vllm-0.31.0+xpu-cp38-abi3-manylinux_2_34_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0+xpu-cp38-abi3-manylinux_2_34_x86_64.whl) | 31.6 MiB | `native/linux/x64` |
-| [vllm-0.31.0-cp38-abi3-manylinux_2_28_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0-cp38-abi3-manylinux_2_28_aarch64.whl) | 300.8 MiB | `native/linux/arm64` |
-| [vllm-0.31.0-cp38-abi3-manylinux_2_28_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0-cp38-abi3-manylinux_2_28_x86_64.whl) | 305.7 MiB | `native/linux/x64` |
-| [vllm-0.31.0.tar.gz](https://github.com/vllm-project/vllm/releases/download/v0.31.0/vllm-0.31.0.tar.gz) | 41.4 MiB | `native/unknown` |
+| [vllm-0.32.0+cpu-cp38-abi3-macosx_11_0_arm64.whl](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0+cpu-cp38-abi3-macosx_11_0_arm64.whl) | 28.5 MiB | `native/darwin/arm64` |
+| [vllm-0.32.0+cpu-cp38-abi3-manylinux_2_39_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0+cpu-cp38-abi3-manylinux_2_39_aarch64.whl) | 67.6 MiB | `native/linux/arm64` |
+| [vllm-0.32.0+cpu-cp38-abi3-manylinux_2_39_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0+cpu-cp38-abi3-manylinux_2_39_x86_64.whl) | 147.5 MiB | `native/linux/x64` |
+| [vllm-0.32.0+cu129-cp38-abi3-manylinux_2_28_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0+cu129-cp38-abi3-manylinux_2_28_aarch64.whl) | 508.5 MiB | `native/linux/arm64` |
+| [vllm-0.32.0+cu129-cp38-abi3-manylinux_2_28_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0+cu129-cp38-abi3-manylinux_2_28_x86_64.whl) | 533.5 MiB | `native/linux/x64` |
+| [vllm-0.32.0+xpu-cp38-abi3-manylinux_2_34_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0+xpu-cp38-abi3-manylinux_2_34_x86_64.whl) | 32.0 MiB | `native/linux/x64` |
+| [vllm-0.32.0-cp38-abi3-manylinux_2_28_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0-cp38-abi3-manylinux_2_28_aarch64.whl) | 306.5 MiB | `native/linux/arm64` |
+| [vllm-0.32.0-cp38-abi3-manylinux_2_28_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0-cp38-abi3-manylinux_2_28_x86_64.whl) | 311.4 MiB | `native/linux/x64` |
+| [vllm-0.32.0.tar.gz](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0.tar.gz) | 42.5 MiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -78,4 +78,4 @@ vllm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261018.yml` · 2026-10-18T04:30:02Z._
+_数据快照: `data/card/261019.yml` · 2026-10-19T04:44:18Z._
