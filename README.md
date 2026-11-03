@@ -14,15 +14,15 @@ x install vllm
 
 ## Code insight
 
-Total: **2,257,101** lines of code across **7458** files in the top 5 languages.
+Total: **2,273,668** lines of code across **7466** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 1,780,748 | 114,149 | 262,002 | 5838 |
-| Json | 174,061 | 0 | 4 | 699 |
-| Rust | 135,459 | 3,300 | 15,105 | 386 |
-| Cuda | 51,456 | 6,521 | 5,687 | 121 |
-| Yaml | 47,620 | 3,038 | 5,175 | 414 |
+| Python | 1,795,883 | 114,883 | 263,679 | 5857 |
+| Json | 174,081 | 0 | 4 | 699 |
+| Rust | 136,751 | 3,336 | 15,211 | 387 |
+| Cuda | 51,359 | 6,504 | 5,665 | 109 |
+| Yaml | 47,826 | 3,038 | 5,176 | 414 |
 
 ## Source
 
@@ -32,42 +32,40 @@ Total: **2,257,101** lines of code across **7458** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.32.0` (2026-10-18)
-- **Last commit**: 2026-11-02
-- **Assets in release**: 9
+- **Latest**: `v0.33.0rc3` (2026-11-02)
+- **Last commit**: 2026-11-03
+- **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 96,100 · **Forks**: 24,281 · **Open issues**: 19,484 · **Contributors**: 3,875
+- **Stars**: 96,180 · **Forks**: 24,331 · **Open issues**: 19,523 · **Contributors**: 3,894
 
 ## Totals (cumulative)
 
-- **Releases**: 108 · **Merged PRs**: 24291 · **Open PRs**: 6996 · **Closed issues**: 16746 · **Open issues**: 2738 · **Commits**: 24332
+- **Releases**: 109 · **Merged PRs**: 24387 · **Open PRs**: 7030 · **Closed issues**: 16779 · **Open issues**: 2744 · **Commits**: 24427
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 1421 | 2506 | 183 | 606 | 3791 |
-| last60d | 2026-09-03 | 4 | 2984 | 3919 | 448 | 1161 | 7328 |
-| 90d | 2026-08-04 | 7 | 4359 | 5048 | 698 | 1743 | 9455 |
-| last180d | 2026-05-06 | 16 | 7661 | 6551 | 1758 | 2450 | 14636 |
-| 360d | 2025-11-07 | 33 | 13068 | 6959 | 5020 | 2673 | 21685 |
-| last720d | 2024-11-12 | 67 | 20909 | 6995 | 11546 | 2729 | 20952 |
+| 30d | 2026-10-04 | 3 | 1484 | 2550 | 190 | 621 | 4034 |
+| last60d | 2026-09-04 | 5 | 3030 | 3937 | 455 | 1161 | 7571 |
+| 90d | 2026-08-05 | 8 | 4407 | 5086 | 701 | 1754 | 9698 |
+| last180d | 2026-05-07 | 17 | 7719 | 6575 | 1765 | 2455 | 14879 |
+| 360d | 2025-11-08 | 34 | 13154 | 6993 | 5044 | 2680 | 21928 |
+| last720d | 2024-11-13 | 68 | 20993 | 7029 | 11563 | 2735 | 21030 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [vllm-0.32.0+cpu-cp38-abi3-macosx_11_0_arm64.whl](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0+cpu-cp38-abi3-macosx_11_0_arm64.whl) | 28.5 MiB | `native/darwin/arm64` |
-| [vllm-0.32.0+cpu-cp38-abi3-manylinux_2_39_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0+cpu-cp38-abi3-manylinux_2_39_aarch64.whl) | 67.6 MiB | `native/linux/arm64` |
-| [vllm-0.32.0+cpu-cp38-abi3-manylinux_2_39_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0+cpu-cp38-abi3-manylinux_2_39_x86_64.whl) | 147.5 MiB | `native/linux/x64` |
-| [vllm-0.32.0+cu129-cp38-abi3-manylinux_2_28_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0+cu129-cp38-abi3-manylinux_2_28_aarch64.whl) | 508.5 MiB | `native/linux/arm64` |
-| [vllm-0.32.0+cu129-cp38-abi3-manylinux_2_28_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0+cu129-cp38-abi3-manylinux_2_28_x86_64.whl) | 533.5 MiB | `native/linux/x64` |
-| [vllm-0.32.0+xpu-cp38-abi3-manylinux_2_34_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0+xpu-cp38-abi3-manylinux_2_34_x86_64.whl) | 32.0 MiB | `native/linux/x64` |
-| [vllm-0.32.0-cp38-abi3-manylinux_2_28_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0-cp38-abi3-manylinux_2_28_aarch64.whl) | 306.5 MiB | `native/linux/arm64` |
-| [vllm-0.32.0-cp38-abi3-manylinux_2_28_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0-cp38-abi3-manylinux_2_28_x86_64.whl) | 311.4 MiB | `native/linux/x64` |
-| [vllm-0.32.0.tar.gz](https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0.tar.gz) | 42.5 MiB | `native/unknown` |
+| [vllm-0.33.0+cpu-cp38-abi3-macosx_11_0_arm64.whl](https://github.com/vllm-project/vllm/releases/download/v0.33.0rc3/vllm-0.33.0+cpu-cp38-abi3-macosx_11_0_arm64.whl) | 30.3 MiB | `native/darwin/arm64` |
+| [vllm-0.33.0+cpu-cp38-abi3-manylinux_2_39_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.33.0rc3/vllm-0.33.0+cpu-cp38-abi3-manylinux_2_39_aarch64.whl) | 70.3 MiB | `native/linux/arm64` |
+| [vllm-0.33.0+cpu-cp38-abi3-manylinux_2_39_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.33.0rc3/vllm-0.33.0+cpu-cp38-abi3-manylinux_2_39_x86_64.whl) | 153.1 MiB | `native/linux/x64` |
+| [vllm-0.33.0+xpu-cp38-abi3-manylinux_2_34_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.33.0rc3/vllm-0.33.0+xpu-cp38-abi3-manylinux_2_34_x86_64.whl) | 33.7 MiB | `native/linux/x64` |
+| [vllm-0.33.0-cp38-abi3-manylinux_2_28_aarch64.whl](https://github.com/vllm-project/vllm/releases/download/v0.33.0rc3/vllm-0.33.0-cp38-abi3-manylinux_2_28_aarch64.whl) | 318.0 MiB | `native/linux/arm64` |
+| [vllm-0.33.0-cp38-abi3-manylinux_2_28_x86_64.whl](https://github.com/vllm-project/vllm/releases/download/v0.33.0rc3/vllm-0.33.0-cp38-abi3-manylinux_2_28_x86_64.whl) | 320.8 MiB | `native/linux/x64` |
+| [vllm-0.33.0.tar.gz](https://github.com/vllm-project/vllm/releases/download/v0.33.0rc3/vllm-0.33.0.tar.gz) | 44.9 MiB | `native/unknown` |
 
 ## Improve this data
 
@@ -78,4 +76,4 @@ Install metadata for vllm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:10:28Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:50:00Z._
