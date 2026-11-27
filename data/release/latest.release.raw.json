@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 34281752,
       "digest": "sha256:cd0abe2a9d698bc0bef36ac9aa38da34307c53572ddee60ca35faef280af99d2",
-      "download_count": 1589,
+      "download_count": 2161,
       "created_at": "2026-11-16T23:49:58Z",
       "updated_at": "2026-11-16T23:50:01Z",
       "browser_download_url": "https://github.com/vllm-project/vllm/releases/download/v0.34.0/vllm-0.34.0%2Bcpu-cp38-abi3-macosx_11_0_arm64.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 78561625,
       "digest": "sha256:2621c0e1f231b09bd225f316447ad87ad9a857e582c08ed7f5cf735a3084225d",
-      "download_count": 591,
+      "download_count": 650,
       "created_at": "2026-11-16T23:49:58Z",
       "updated_at": "2026-11-16T23:50:04Z",
       "browser_download_url": "https://github.com/vllm-project/vllm/releases/download/v0.34.0/vllm-0.34.0%2Bcpu-cp38-abi3-manylinux_2_39_aarch64.whl"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 163849325,
       "digest": "sha256:47fc0adfbbb00168d5a755b08a4b5fbde7e180c91c0a065221e7a253b8bbb5ff",
-      "download_count": 2334,
+      "download_count": 2593,
       "created_at": "2026-11-16T23:49:58Z",
       "updated_at": "2026-11-16T23:50:09Z",
       "browser_download_url": "https://github.com/vllm-project/vllm/releases/download/v0.34.0/vllm-0.34.0%2Bcpu-cp38-abi3-manylinux_2_39_x86_64.whl"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 38086689,
       "digest": "sha256:3c279c7e5cf9b871ae4a7e07d2a960090f729d1a3c8850219fc302797a8eb646",
-      "download_count": 99,
+      "download_count": 103,
       "created_at": "2026-11-16T23:49:58Z",
       "updated_at": "2026-11-16T23:50:01Z",
       "browser_download_url": "https://github.com/vllm-project/vllm/releases/download/v0.34.0/vllm-0.34.0%2Bxpu-cp38-abi3-manylinux_2_34_x86_64.whl"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 238960498,
       "digest": "sha256:7d96231fc141ad4b3a441292b77362b285b335ca7d1b0e2ab441d4ebde82f405",
-      "download_count": 7035,
+      "download_count": 8506,
       "created_at": "2026-11-16T23:49:58Z",
       "updated_at": "2026-11-16T23:50:13Z",
       "browser_download_url": "https://github.com/vllm-project/vllm/releases/download/v0.34.0/vllm-0.34.0-cp38-abi3-manylinux_2_28_aarch64.whl"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 239039932,
       "digest": "sha256:79ca4b3cd74aec08c4bf476bdf0cb15735b605ae5368526a2faae1e30f044ca2",
-      "download_count": 7580,
+      "download_count": 9098,
       "created_at": "2026-11-16T23:50:02Z",
       "updated_at": "2026-11-16T23:50:15Z",
       "browser_download_url": "https://github.com/vllm-project/vllm/releases/download/v0.34.0/vllm-0.34.0-cp38-abi3-manylinux_2_28_x86_64.whl"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 50892813,
       "digest": "sha256:fcad848b246a9d8652b47e6425af92334dc02492f9802720f54e27b823cf0113",
-      "download_count": 167,
+      "download_count": 182,
       "created_at": "2026-11-16T23:50:02Z",
       "updated_at": "2026-11-16T23:50:08Z",
       "browser_download_url": "https://github.com/vllm-project/vllm/releases/download/v0.34.0/vllm-0.34.0.tar.gz"
